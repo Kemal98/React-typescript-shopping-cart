@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Samsun A23",
+    "price": 399,
+    "imgUrl": "/imgs/a23.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung A34",
+    "price": 560,
+    "imgUrl": "/imgs/a34.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung M53",
+    "price": 999,
+    "imgUrl": "/imgs/m53.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samsung s10",
+    "price": 1000,
+    "imgUrl": "/imgs/s10.jpg"
+  }
+]
