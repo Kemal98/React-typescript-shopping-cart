@@ -1,7 +1,6 @@
 # React-typescript-shopping-cart
 
-This is a description of a project I developed using React, TypeScript and Bootstrap - 
-a fully functional shopping cart. This project was created in React and TypeScript.
+This project was created in React and TypeScript.
 
 In the project I use Bootstrap to create a responsive and attractive user interface. 
 Also, to manage global state I use the useContext API. This allows components 
